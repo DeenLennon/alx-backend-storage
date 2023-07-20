@@ -85,3 +85,4 @@ class Cache:
     def get_int(self, data: str) -> int:
         """ return byte in integer """
         return int(data)
+

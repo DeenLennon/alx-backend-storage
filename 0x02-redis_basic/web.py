@@ -34,3 +34,4 @@ def get_page(url: str) -> str:
     """return URL
     """
     return requests.get(url).text
+
